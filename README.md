@@ -45,11 +45,11 @@ Loan Data set
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on (https://learn.upgrad.com/course/7714/segment/55293/329889/998342/4989955).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sckam888] - feel free to contact me!
 
 
 <!-- Optional -->
